@@ -110,3 +110,4 @@ class RedialParser:
               f'Average mentioned movie numbers per conversation (test): {n2 / len2}\n'
               f'Average message numbers per conversation (test): {m2 / len2}\n\n'
               , end='')
+
